@@ -3,6 +3,6 @@
 
 - 1.7969398e-16 lightyears tall
 
-- 2.12×10^−7 Newton gravitaionskraft vs 70kg
+- 2.12×10^−7 Newton gravitaionskraft M2=70kg
 
 - 
